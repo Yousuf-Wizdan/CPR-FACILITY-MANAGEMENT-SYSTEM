@@ -2,7 +2,7 @@
 
 This is a web app I built during my internship at **BHEL, Jhansi**.
 
-The goal of this project was to create a simple, digital way for the Central Plant Repairs (CPR) department to handle facility maintenance requests. I noticed that the existing process could be slow, so I developed this system to help track issues easily and make sure everything gets resolved faster.
+The goal of this project was to create a simple, digital way for the Common & Public Relation (CPR) department to handle facility requests. I noticed that the existing process could be slow, so I developed this system to help track issues easily and make sure everything gets resolved faster.
 
 ---
 
